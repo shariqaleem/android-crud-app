@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ToyotaGuy/AndroidStudioProjects/Islam360/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ToyotaGuy/AndroidStudioProjects/Islam360/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ToyotaGuy/AndroidStudioProjects/Islam360/app/src/main/res/layout/exit.xml" value="0.1953125" />
+        <entry key="..\:/Users/ToyotaGuy/AndroidStudioProjects/Islam360/app/src/main/res/layout/main_screen.xml" value="0.15" />
         <entry key="..\:/Users/ToyotaGuy/AndroidStudioProjects/Islam360/app/src/main/res/layout/splash.xml" value="0.1953125" />
       </map>
     </option>
